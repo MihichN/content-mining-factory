@@ -116,7 +116,7 @@ The private production codebase is proprietary.
 
 ## Author
 
-Portfolio project — replace with your links:
+Portfolio project:
 
-- GitHub: `@yourusername`
-- LinkedIn: `your-profile`
+- GitHub: `@MihichN`
+- LinkedIn: `[mikhail-nikitin-dev](https://www.linkedin.com/in/mikhail-nikitin-dev)`
